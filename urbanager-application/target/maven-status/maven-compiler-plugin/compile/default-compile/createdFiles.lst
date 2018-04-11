@@ -1,0 +1,14 @@
+com\alenasoft\urbanager\resources\hello\ResultDao.class
+com\alenasoft\urbanager\resources\example\service\ExampleService.class
+com\alenasoft\urbanager\resources\example\service\ExampleServiceImpl.class
+com\alenasoft\urbanager\resources\hello\HelloService.class
+com\alenasoft\urbanager\resources\hello\HelloServiceImpl.class
+com\alenasoft\urbanager\resources\hello\HelloResource.class
+com\alenasoft\urbanager\resources\example\dao\ExampleDaoImpl.class
+com\alenasoft\urbanager\UrbanagerApp$1.class
+com\alenasoft\urbanager\resources\example\dao\ExampleDao.class
+com\alenasoft\urbanager\UrbanagerConf.class
+com\alenasoft\urbanager\resources\example\ExampleResource.class
+com\alenasoft\urbanager\UrbanagerApp.class
+com\alenasoft\urbanager\core\modules\HibernateModule.class
+com\alenasoft\urbanager\core\modules\MainModule.class
