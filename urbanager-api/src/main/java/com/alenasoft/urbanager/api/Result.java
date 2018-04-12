@@ -42,5 +42,6 @@ public class Result {
 
     @JsonProperty
     public int result;
+
 }
 
